@@ -13,18 +13,18 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/your-username/Bike-Sharing-Count-Prediction.git
-    cd Bike-Sharing-Count-Prediction
     ```
 
-2. **Install the required dependencies**:
-    You can install the required Python libraries by running:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. **Navigate to the project directory**:
+   ```bash
+   cd Bike-Sharing-Count-Prediction
+   ```
 
-3. **Dataset**:
-   Download the dataset from [UCI Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) and place it in the appropriate folder in the project directory.
-
+3. **Install the required dependencies**:
+   ```bash
+   pip install -- upgrade -r requirements.txt
+   ```
+   
 ## Dataset
 
 The dataset consists of the following features:
