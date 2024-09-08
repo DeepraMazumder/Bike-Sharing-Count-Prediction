@@ -6,21 +6,6 @@ The **Bike-Sharing-Count-Prediction** project aims to predict the total number o
 
 The dataset used for this project is the **[Bike Sharing Dataset](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)**, which contains hourly bike rental data for two years (2011 and 2012) in the Capital Bikeshare system, Washington D.C.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Feature Engineering](#feature-engineering)
-- [Modeling](#modeling)
-  - [Linear Regression](#linear-regression)
-  - [Polynomial Regression](#polynomial-regression)
-  - [Regularization Techniques](#regularization-techniques)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 To run the project locally, follow these steps:
