@@ -91,12 +91,10 @@ Each model was evaluated based on MSE and R-squared scores.
 The project evaluated several models and techniques:
 
 - **Linear Regression**:
-  - Mean Squared Error (MSE): `x.xx`
-  - R-squared Score: `x.xx`
+  - R-squared Score: `0.68`
   
 - **Polynomial Regression**:
-  - R-squared Score on Training Data: `x.xx`
-  - R-squared Score on Testing Data: `x.xx`
+  - R-squared Score: `0.92`
   
 - **Ridge, Lasso, and ElasticNet Regularization**:
   - Improved generalization performance with reduced MSE.
